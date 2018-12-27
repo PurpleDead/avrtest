@@ -59,6 +59,7 @@ int main( void ){
 			pulse = i;
 			delay_ms(1);
 		}
+
 		for(i; i > 0; i--){
 			pulse = i;
 			delay_ms(1);
